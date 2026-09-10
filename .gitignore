@@ -1,0 +1,36 @@
+# Python caches and build output
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Local virtual environments and tooling
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Streamlit and local editor files
+.streamlit/secrets.toml
+.vscode/
+.idea/
+
+# Local data and generated reports
+corpus/
+reports/
+*.pdf
+*.docx
+*.tmp
+*.log
+
+# Downloaded model/cache directories
+.cache/
+cache/
+hf_cache/
+model_cache/

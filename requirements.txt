@@ -1,0 +1,17 @@
+streamlit
+starlette==0.46.2
+pandas
+numpy
+nltk
+beautifulsoup4
+requests
+scikit-learn
+datasketch
+rapidfuzz
+docx2txt
+PyPDF2
+python-docx
+plotly
+reportlab
+sentence-transformers
+transformers
