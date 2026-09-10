@@ -40,7 +40,7 @@ The older `app2.py` is retained as an experimental prototype and is not the reco
 ### Windows PowerShell
 
 ```powershell
-git clone https://github.com/<your-username>/academic-document-intelligence.git
+git clone https://github.com/AvinashCreates/academic-document-intelligence.git
 cd academic-document-intelligence
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
@@ -57,7 +57,7 @@ If PowerShell blocks activation, run the app with the virtual-environment execut
 ### macOS or Linux
 
 ```bash
-git clone https://github.com/<your-username>/academic-document-intelligence.git
+git clone https://github.com/AvinashCreates/academic-document-intelligence.git
 cd academic-document-intelligence
 python3 -m venv .venv
 source .venv/bin/activate
